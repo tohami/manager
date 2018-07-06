@@ -1,0 +1,4 @@
+1- react-native init manager to create the project
+2- npm install --save react-redux redux for install react-redux in our porject
+3- add src folder in the root of project
+4- create root component inside the src folder app.js

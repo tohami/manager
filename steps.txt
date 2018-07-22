@@ -2,3 +2,14 @@
 2- npm install --save react-redux redux for install react-redux in our porject
 3- add src folder in the root of project
 4- create root component inside the src folder app.js
+
+5- create default reducer compine reducer
+6- install firebase npm install --save firebase
+    on firebase console
+    1- create new project
+    2- enable authentication
+    3- init firebase app
+
+part one finish
+part 2 handle data in react
+

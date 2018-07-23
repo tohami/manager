@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "firebase": "5.0.3",
+    "flow-upgrade": "^1.0.4",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-redux": "^5.0.7",

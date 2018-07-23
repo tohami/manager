@@ -12,4 +12,12 @@
 
 part one finish
 part 2 handle data in react
-
+1- create login form
+2- create action creator
+3- import connect helper
+4- import action creatore
+5- connect action creator with connect helper
+6- fire action from our event handler "this.props.emailChangedAC(text)"
+7- create auth reducer
+8- wire it with compinereducer
+9- catch up email changed action inside auth reducer
